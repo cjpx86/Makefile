@@ -10,3 +10,5 @@ thread_static:
 	make -C threadlib/ static
 thread_depend:
 	make -C threadlib/ depend
+help:
+	@echo help msg
