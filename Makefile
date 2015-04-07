@@ -12,3 +12,5 @@ thread_depend:
 	make -C threadlib/ depend
 help:
 	@echo help msg
+test:
+	@echo add test target
